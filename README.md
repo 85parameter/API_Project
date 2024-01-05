@@ -1,2 +1,2 @@
-# RestAPI_Project
+# API_Project
 This is for our Group Project in OODP
